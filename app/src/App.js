@@ -1,4 +1,3 @@
-import './App.css';
 import {gql, useQuery, useMutation, useLazyQuery} from '@apollo/client'
 import Swal from 'sweetalert2'
 import {useState} from 'react';
